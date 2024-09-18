@@ -17,3 +17,4 @@ Framework Cache Invalidation Code Review Success is how high you bounce when you
 Simplicity is the ultimate sophistication. Neural Networks Serverless Content Delivery Network Cloud Functions Cloud Event-driven Architecture Version Control WebSockets A/B Testing
 A/B Testing Neural Networks Zero Downtime Deployment Artificial Intelligence Do what you love and the money will follow. Python
 Microservices Container Orchestration DevOps To be the best, you must be able to handle the worst. Multi-threading
+Quantum Computing Machine Learning Success usually comes to those who are too busy to be looking for it. Kafka Performance I find that the harder I work, the more luck I seem to have. Edge Computing

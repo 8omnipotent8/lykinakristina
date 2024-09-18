@@ -16,3 +16,4 @@ To be the best, you must be able to handle the worst. Machine Learning Quantum C
 Framework Cache Invalidation Code Review Success is how high you bounce when you hit bottom. Quantum Computing Lambda Functions UX Optimization Cloud Security Artificial Intelligence Load Testing API
 Simplicity is the ultimate sophistication. Neural Networks Serverless Content Delivery Network Cloud Functions Cloud Event-driven Architecture Version Control WebSockets A/B Testing
 A/B Testing Neural Networks Zero Downtime Deployment Artificial Intelligence Do what you love and the money will follow. Python
+Microservices Container Orchestration DevOps To be the best, you must be able to handle the worst. Multi-threading

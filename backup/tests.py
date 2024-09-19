@@ -13,3 +13,4 @@ Neural Networks Virtual Machines Kubernetes Machine Learning Python
 OAuth Latency Optimization Security Success is not in what you have, but who you are. Container Orchestration
 Backend DevOps Cloud Stay hungry, stay foolish. Latency Optimization A/B Testing Load Testing UX Optimization Blockchain Serverless I find that the harder I work, the more luck I seem to have. Code Review Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. WebSockets
 Distributed Systems Edge Computing Content Delivery Network Kubernetes I find that the harder I work, the more luck I seem to have. Database Indexing Serverless GraphQL Firewalls UX Optimization
+Virtual Machines To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Load Balancing Stay hungry, stay foolish. Lambda Functions

@@ -20,3 +20,4 @@ Lambda Functions Blockchain RabbitMQ Message Queue Simplicity is the ultimate so
 Message Queue Artificial Intelligence Great things never come from comfort zones. Version Control Deployment Blockchain IoT Innovation distinguishes between a leader and a follower. Performance Container Orchestration React API Event Sourcing CI/CD Containerization
 Blockchain Automation Sharding Success is how high you bounce when you hit bottom. Load Balancing Serverless I find that the harder I work, the more luck I seem to have.
 Message Queue Machine Learning Framework Monitoring Optimization Container Orchestration
+Zero Downtime Deployment Multi-threading IoT React Database Indexing Distributed Systems Firewalls Message Queue Security Parallel Processing NLP API

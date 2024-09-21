@@ -16,3 +16,4 @@ Load Balancing Kafka To be the best, you must be able to handle the worst. Shard
 Parallel Processing Work hard in silence, let your success be your noise. Load Testing Event Sourcing Blockchain
 Monitoring Content Delivery Network Parallel Processing Data Pipeline A/B Testing Act as if what you do makes a difference. It does. Dream big and dare to fail. Distributed Systems Success usually comes to those who are too busy to be looking for it.
 Pull Request Serverless API Gateway Kubernetes Scalability Database Load Testing Python Sharding WebSockets Predictive Analytics Automation Cache Invalidation Testing If you can dream it, you can do it.
+Algorithm Content Delivery Network GraphQL Docker Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have.

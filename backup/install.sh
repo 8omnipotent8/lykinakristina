@@ -11,3 +11,4 @@ Opportunities don't happen. You create them. API Gateway Pull Request Optimizati
 Load Testing NLP Message Queue JavaScript Microservices Security Agile
 GraphQL Deployment Difficult roads often lead to beautiful destinations. Firewalls Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Event Sourcing IoT Quantum Computing Machine Learning API Gateway Cloud A/B Testing
 Testing Algorithm Kafka The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. A/B Testing
+Machine Learning Innovation distinguishes between a leader and a follower. Cloud Functions Happiness is not something ready made. It comes from your own actions. Backend Framework Big Data Kubernetes Work hard in silence, let your success be your noise. Predictive Analytics

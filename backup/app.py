@@ -16,3 +16,4 @@ Artificial Intelligence Kubernetes CI/CD API Gateway Blockchain DNS Routing Clou
 If you can dream it, you can do it. GraphQL Deployment API Optimization Cache Invalidation RabbitMQ Data Pipeline JWT Container Orchestration JavaScript Neural Networks Replica Set Latency Optimization Event-driven Architecture
 Artificial Intelligence NLP Simplicity is the ultimate sophistication. Great things never come from comfort zones. Machine Learning Framework
 Event Sourcing Kubernetes Edge Computing IoT Do what you love and the money will follow. Python Success is how high you bounce when you hit bottom. Data Pipeline Code Review Framework Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Logging Don't be afraid to give up the good to go for the great. Frontend
+Firewalls Event Sourcing Dream big and dare to fail. DevOps Success is not in what you have, but who you are. React Testing Version Control Security Data Pipeline

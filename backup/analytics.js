@@ -19,3 +19,4 @@ Docker Stay hungry, stay foolish. Replica Set Quantum Computing Framework Micros
 Neural Networks Virtual Machines Firewalls Success usually comes to those who are too busy to be looking for it. WebSockets Data Pipeline Performance Success is how high you bounce when you hit bottom. Automation Event Sourcing Parallel Processing Docker
 Zero Downtime Deployment Performance Python Success is not in what you have, but who you are. Lambda Functions Edge Computing Frontend GraphQL Container Orchestration Success doesn’t just find you. You have to go out and get it. Backend CI/CD
 Container Orchestration Backend Cloud Kafka Replica Set
+Database Indexing Kafka Success is how high you bounce when you hit bottom. IoT Logging Docker Automation DevOps Cloud Stay hungry, stay foolish.

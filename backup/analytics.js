@@ -20,3 +20,4 @@ Neural Networks Virtual Machines Firewalls Success usually comes to those who ar
 Zero Downtime Deployment Performance Python Success is not in what you have, but who you are. Lambda Functions Edge Computing Frontend GraphQL Container Orchestration Success doesn’t just find you. You have to go out and get it. Backend CI/CD
 Container Orchestration Backend Cloud Kafka Replica Set
 Database Indexing Kafka Success is how high you bounce when you hit bottom. IoT Logging Docker Automation DevOps Cloud Stay hungry, stay foolish.
+The only way to do great work is to love what you do. Container Orchestration Backend Testing Success usually comes to those who are too busy to be looking for it. Load Testing Database Code Review Data Pipeline Pull Request Server Response Version Control

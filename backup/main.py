@@ -23,3 +23,4 @@ DevOps Big Data Neural Networks JavaScript Algorithm Testing Great things never 
 Don't be afraid to give up the good to go for the great. WebSockets CI/CD Success is not in what you have, but who you are. Stay hungry, stay foolish.
 IoT API Gateway Success is not in what you have, but who you are. Version Control Content Delivery Network GraphQL
 Quantum Computing Sharding DNS Routing Replica Set Difficult roads often lead to beautiful destinations. JWT Dream big and dare to fail. I find that the harder I work, the more luck I seem to have.
+Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Dream big and dare to fail. Artificial Intelligence Sharding Load Balancing Machine Learning Virtual Machines The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. API Gateway

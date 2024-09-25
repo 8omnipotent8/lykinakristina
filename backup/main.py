@@ -22,3 +22,4 @@ API Gateway OAuth A/B Testing Automation Content Delivery Network Monitoring Big
 DevOps Big Data Neural Networks JavaScript Algorithm Testing Great things never come from comfort zones. Server Response Success usually comes to those who are too busy to be looking for it. Kafka Load Testing Dream big and dare to fail. Multi-threading If you can dream it, you can do it.
 Don't be afraid to give up the good to go for the great. WebSockets CI/CD Success is not in what you have, but who you are. Stay hungry, stay foolish.
 IoT API Gateway Success is not in what you have, but who you are. Version Control Content Delivery Network GraphQL
+Quantum Computing Sharding DNS Routing Replica Set Difficult roads often lead to beautiful destinations. JWT Dream big and dare to fail. I find that the harder I work, the more luck I seem to have.

@@ -26,3 +26,4 @@ Don't be afraid to give up the good to go for the great. If you can dream it, yo
 Kafka Code Review DevOps Difficult roads often lead to beautiful destinations. Message Queue Database Sharding To be the best, you must be able to handle the worst. Python Testing Opportunities don't happen. You create them. Security
 Cache Invalidation Algorithm Great things never come from comfort zones. API Multi-threading Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Machine Learning
 Edge Computing To be the best, you must be able to handle the worst. Automation Simplicity is the ultimate sophistication. Do what you love and the money will follow. Opportunities don't happen. You create them. Neural Networks Content Delivery Network
+Backend Security Serverless Database Firewalls Microservices Docker GraphQL Data Pipeline Server Response Algorithm Neural Networks JWT Container Orchestration

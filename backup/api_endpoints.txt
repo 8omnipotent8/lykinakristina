@@ -12,3 +12,4 @@ Database CI/CD Containerization Code Review Message Queue NLP Database Indexing 
 Version Control Data Science Frontend CI/CD Docker UX Optimization JWT Distributed Systems
 API Scalability Cache Invalidation Kafka Cloud Functions Artificial Intelligence Blockchain
 Edge Computing API Gateway To be the best, you must be able to handle the worst. Frontend Logging Content Delivery Network Data Science
+JavaScript React Database Data Science Virtual Machines Firewalls Version Control Lambda Functions Docker Work hard in silence, let your success be your noise.

@@ -14,3 +14,4 @@ Docker Pull Request Code Review Quantum Computing Happiness is not something rea
 Distributed Systems Replica Set Security JavaScript Blockchain Database Indexing Do what you love and the money will follow. Zero Downtime Deployment Cloud Parallel Processing Database
 Load Balancing Kafka To be the best, you must be able to handle the worst. Sharding A/B Testing Container Orchestration
 Parallel Processing Work hard in silence, let your success be your noise. Load Testing Event Sourcing Blockchain
+Monitoring Content Delivery Network Parallel Processing Data Pipeline A/B Testing Act as if what you do makes a difference. It does. Dream big and dare to fail. Distributed Systems Success usually comes to those who are too busy to be looking for it.

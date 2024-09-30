@@ -11,3 +11,4 @@ Server Response A/B Testing Edge Computing Event Sourcing Python Sharding Backen
 Database CI/CD Containerization Code Review Message Queue NLP Database Indexing Quantum Computing API Gateway Container Orchestration Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have.
 Version Control Data Science Frontend CI/CD Docker UX Optimization JWT Distributed Systems
 API Scalability Cache Invalidation Kafka Cloud Functions Artificial Intelligence Blockchain
+Edge Computing API Gateway To be the best, you must be able to handle the worst. Frontend Logging Content Delivery Network Data Science

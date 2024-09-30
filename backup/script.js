@@ -13,3 +13,4 @@ React Frontend Kubernetes Latency Optimization Data Pipeline Algorithm Security 
 Docker Pull Request Code Review Quantum Computing Happiness is not something ready made. It comes from your own actions. Python Artificial Intelligence Data Science Difficult roads often lead to beautiful destinations.
 Distributed Systems Replica Set Security JavaScript Blockchain Database Indexing Do what you love and the money will follow. Zero Downtime Deployment Cloud Parallel Processing Database
 Load Balancing Kafka To be the best, you must be able to handle the worst. Sharding A/B Testing Container Orchestration
+Parallel Processing Work hard in silence, let your success be your noise. Load Testing Event Sourcing Blockchain

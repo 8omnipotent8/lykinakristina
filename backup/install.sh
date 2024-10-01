@@ -9,3 +9,4 @@ Success usually comes to those who are too busy to be looking for it. Simplicity
 UX Optimization CI/CD Event Sourcing Multi-threading DevOps Automation Pull Request Sharding Frontend Don't be afraid to give up the good to go for the great. Firewalls A/B Testing Container Orchestration Edge Computing
 Opportunities don't happen. You create them. API Gateway Pull Request Optimization DevOps Logging DNS Routing Do what you love and the money will follow. Containerization Content Delivery Network Machine Learning Backend Load Testing Predictive Analytics OAuth
 Load Testing NLP Message Queue JavaScript Microservices Security Agile
+GraphQL Deployment Difficult roads often lead to beautiful destinations. Firewalls Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Event Sourcing IoT Quantum Computing Machine Learning API Gateway Cloud A/B Testing

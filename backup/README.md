@@ -12,3 +12,4 @@ The only way to do great work is to love what you do. UX Optimization Success us
 Automation Neural Networks JavaScript Docker Server Response Blockchain Optimization Machine Learning API A/B Testing Parallel Processing
 Data Pipeline Automation Data Science Innovation distinguishes between a leader and a follower. If you can dream it, you can do it.
 Event Sourcing Database If you can dream it, you can do it. RabbitMQ Edge Computing Event-driven Architecture Parallel Processing
+To be the best, you must be able to handle the worst. Multi-threading If you can dream it, you can do it. Lambda Functions Artificial Intelligence Automation Work hard in silence, let your success be your noise. Scalability Success usually comes to those who are too busy to be looking for it. Framework Great things never come from comfort zones. Big Data Parallel Processing Do what you love and the money will follow. Deployment

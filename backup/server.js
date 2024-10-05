@@ -15,3 +15,4 @@ Algorithm Data Pipeline Backend Success doesn’t just find you. You have to go ou
 Cloud Functions A/B Testing Latency Optimization Quantum Computing Simplicity is the ultimate sophistication. Virtual Machines
 Serverless Neural Networks Sharding GraphQL Stay hungry, stay foolish. Distributed Systems Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Automation NLP IoT DevOps Containerization CI/CD
 Optimization React Data Science Latency Optimization Backend Cloud The only way to do great work is to love what you do. API Gateway Python Quantum Computing Work hard in silence, let your success be your noise. Database Indexing Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. DevOps
+Performance Parallel Processing Dream big and dare to fail. Docker Container Orchestration Kubernetes

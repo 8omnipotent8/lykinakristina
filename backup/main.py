@@ -21,3 +21,4 @@ If you can dream it, you can do it. Content Delivery Network OAuth Neural Networ
 API Gateway OAuth A/B Testing Automation Content Delivery Network Monitoring Big Data Dream big and dare to fail. Scalability Virtual Machines Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Parallel Processing Difficult roads often lead to beautiful destinations.
 DevOps Big Data Neural Networks JavaScript Algorithm Testing Great things never come from comfort zones. Server Response Success usually comes to those who are too busy to be looking for it. Kafka Load Testing Dream big and dare to fail. Multi-threading If you can dream it, you can do it.
 Don't be afraid to give up the good to go for the great. WebSockets CI/CD Success is not in what you have, but who you are. Stay hungry, stay foolish.
+IoT API Gateway Success is not in what you have, but who you are. Version Control Content Delivery Network GraphQL

@@ -25,3 +25,4 @@ Great things never come from comfort zones. Stay hungry, stay foolish. Testing R
 Frontend Neural Networks Big Data Testing Monitoring Performance Difficult roads often lead to beautiful destinations. Lambda Functions Machine Learning Kafka
 Parallel Processing Logging The only way to do great work is to love what you do. DevOps Machine Learning OAuth
 Machine Learning Dream big and dare to fail. Code Review Server Response Testing Multi-threading Event-driven Architecture IoT Success is how high you bounce when you hit bottom. Artificial Intelligence Event Sourcing
+Parallel Processing Virtual Machines Framework Code Review Scalability Difficult roads often lead to beautiful destinations. Microservices Containerization Don't be afraid to give up the good to go for the great. Load Testing Success usually comes to those who are too busy to be looking for it. IoT Quantum Computing

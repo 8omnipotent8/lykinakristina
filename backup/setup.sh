@@ -24,3 +24,4 @@ Load Testing OAuth Innovation distinguishes between a leader and a follower. Pul
 Great things never come from comfort zones. Stay hungry, stay foolish. Testing React Event-driven Architecture Cloud Big Data Load Balancing Data Pipeline Monitoring
 Frontend Neural Networks Big Data Testing Monitoring Performance Difficult roads often lead to beautiful destinations. Lambda Functions Machine Learning Kafka
 Parallel Processing Logging The only way to do great work is to love what you do. DevOps Machine Learning OAuth
+Machine Learning Dream big and dare to fail. Code Review Server Response Testing Multi-threading Event-driven Architecture IoT Success is how high you bounce when you hit bottom. Artificial Intelligence Event Sourcing

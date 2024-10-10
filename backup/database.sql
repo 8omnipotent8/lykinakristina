@@ -25,3 +25,4 @@ Data Science Scalability Testing Replica Set Cloud Agile Predictive Analytics AP
 Docker Act as if what you do makes a difference. It does. API Gateway Edge Computing Scalability Containerization Artificial Intelligence
 The only way to do great work is to love what you do. WebSockets Frontend Neural Networks OAuth Cache Invalidation Monitoring Replica Set Container Orchestration Success doesn’t just find you. You have to go out and get it. RabbitMQ IoT Sharding Serverless
 Version Control Cloud Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. NLP
+I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Backend Great things never come from comfort zones. Message Queue NLP To be the best, you must be able to handle the worst. Firewalls Version Control Cache Invalidation Database Indexing

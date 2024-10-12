@@ -11,3 +11,4 @@ Data Pipeline Great things never come from comfort zones. Logging Don't be afrai
 Server Response Neural Networks NLP OAuth Kubernetes Distributed Systems API Code Review Machine Learning Event Sourcing Python API Gateway Dream big and dare to fail. Zero Downtime Deployment JWT
 Do what you love and the money will follow. Optimization Load Balancing Dream big and dare to fail. Docker Container Orchestration Virtual Machines Quantum Computing Difficult roads often lead to beautiful destinations. Database NLP The only way to do great work is to love what you do. Success is not in what you have, but who you are.
 Data Science Event-driven Architecture Message Queue Do what you love and the money will follow. JavaScript Lambda Functions Backend Testing Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do.
+Zero Downtime Deployment Multi-threading Great things never come from comfort zones. Testing Predictive Analytics

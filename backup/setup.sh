@@ -23,3 +23,4 @@ Framework Happiness is not something ready made. It comes from your own actions.
 Load Testing OAuth Innovation distinguishes between a leader and a follower. Pull Request Containerization Cache Invalidation Load Balancing Machine Learning API Gateway Replica Set Agile Opportunities don't happen. You create them.
 Great things never come from comfort zones. Stay hungry, stay foolish. Testing React Event-driven Architecture Cloud Big Data Load Balancing Data Pipeline Monitoring
 Frontend Neural Networks Big Data Testing Monitoring Performance Difficult roads often lead to beautiful destinations. Lambda Functions Machine Learning Kafka
+Parallel Processing Logging The only way to do great work is to love what you do. DevOps Machine Learning OAuth

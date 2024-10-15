@@ -11,3 +11,4 @@ Act as if what you do makes a difference. It does. Dream big and dare to fail. D
 I find that the harder I work, the more luck I seem to have. API Gateway Neural Networks Success is how high you bounce when you hit bottom. Python Testing Automation Content Delivery Network
 Success is not in what you have, but who you are. Performance Containerization I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Python NLP Frontend Pull Request Event Sourcing DevOps Database Success is how high you bounce when you hit bottom. Load Testing
 API Cache Invalidation Replica Set Great things never come from comfort zones. Zero Downtime Deployment Cloud Stay hungry, stay foolish.
+API Gateway Success usually comes to those who are too busy to be looking for it. A/B Testing API UX Optimization Predictive Analytics Do what you love and the money will follow. CI/CD Pull Request If you can dream it, you can do it. Docker

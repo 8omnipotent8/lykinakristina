@@ -10,3 +10,4 @@ Cache Invalidation Innovation distinguishes between a leader and a follower. Sta
 Do what you love and the money will follow. Automation Dream big and dare to fail. Security Pull Request Big Data Stay hungry, stay foolish.
 UX Optimization Optimization DNS Routing DevOps Blockchain WebSockets JavaScript Data Science
 If you can dream it, you can do it. To be the best, you must be able to handle the worst. Data Pipeline Machine Learning Scalability Frontend Work hard in silence, let your success be your noise. API The only way to do great work is to love what you do. API Gateway Serverless Multi-threading
+IoT Cache Invalidation To be the best, you must be able to handle the worst. UX Optimization Work hard in silence, let your success be your noise. Database DNS Routing

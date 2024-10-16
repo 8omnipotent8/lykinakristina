@@ -13,3 +13,4 @@ Great things never come from comfort zones. Distributed Systems Kubernetes A/B T
 RabbitMQ Artificial Intelligence Firewalls CI/CD Kubernetes Cloud Functions Blockchain Do what you love and the money will follow.
 Frontend Stay hungry, stay foolish. Edge Computing Kubernetes Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Security Virtual Machines DevOps Do what you love and the money will follow.
 API Edge Computing Blockchain OAuth Big Data
+Framework Parallel Processing If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Scalability Innovation distinguishes between a leader and a follower. Load Balancing Lambda Functions Difficult roads often lead to beautiful destinations. Version Control Machine Learning Monitoring Microservices Success doesn’t just find you. You have to go out and get it. Container Orchestration

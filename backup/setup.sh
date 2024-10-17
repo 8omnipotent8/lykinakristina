@@ -22,3 +22,4 @@ Quantum Computing Opportunities don't happen. You create them. Deployment JWT Ag
 Framework Happiness is not something ready made. It comes from your own actions. Backend Testing Dream big and dare to fail. Code Review Machine Learning Success doesn’t just find you. You have to go out and get it.
 Load Testing OAuth Innovation distinguishes between a leader and a follower. Pull Request Containerization Cache Invalidation Load Balancing Machine Learning API Gateway Replica Set Agile Opportunities don't happen. You create them.
 Great things never come from comfort zones. Stay hungry, stay foolish. Testing React Event-driven Architecture Cloud Big Data Load Balancing Data Pipeline Monitoring
+Frontend Neural Networks Big Data Testing Monitoring Performance Difficult roads often lead to beautiful destinations. Lambda Functions Machine Learning Kafka

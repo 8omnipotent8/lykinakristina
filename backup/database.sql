@@ -23,3 +23,4 @@ Performance Deployment A/B Testing Success is how high you bounce when you hit b
 Artificial Intelligence Parallel Processing Event Sourcing OAuth Latency Optimization
 Data Science Scalability Testing Replica Set Cloud Agile Predictive Analytics API I find that the harder I work, the more luck I seem to have. RabbitMQ Firewalls Kafka Act as if what you do makes a difference. It does. Backend
 Docker Act as if what you do makes a difference. It does. API Gateway Edge Computing Scalability Containerization Artificial Intelligence
+The only way to do great work is to love what you do. WebSockets Frontend Neural Networks OAuth Cache Invalidation Monitoring Replica Set Container Orchestration Success doesn’t just find you. You have to go out and get it. RabbitMQ IoT Sharding Serverless

@@ -12,3 +12,4 @@ Testing OAuth Event Sourcing Artificial Intelligence Firewalls UX Optimization I
 Cloud Functions Version Control Docker Code Review Dream big and dare to fail.
 Optimization Stay hungry, stay foolish. RabbitMQ I find that the harder I work, the more luck I seem to have. Kafka Do what you love and the money will follow. CI/CD Act as if what you do makes a difference. It does. Replica Set Don't be afraid to give up the good to go for the great.
 Algorithm Data Pipeline Backend Success doesn’t just find you. You have to go out and get it. Message Queue Edge Computing Version Control Framework Code Review Parallel Processing Containerization Opportunities don't happen. You create them.
+Cloud Functions A/B Testing Latency Optimization Quantum Computing Simplicity is the ultimate sophistication. Virtual Machines

@@ -12,3 +12,4 @@ Replica Set Kafka Database Scalability Zero Downtime Deployment Blockchain Deplo
 Great things never come from comfort zones. Distributed Systems Kubernetes A/B Testing Content Delivery Network Load Balancing Event Sourcing Optimization Don't be afraid to give up the good to go for the great. Big Data
 RabbitMQ Artificial Intelligence Firewalls CI/CD Kubernetes Cloud Functions Blockchain Do what you love and the money will follow.
 Frontend Stay hungry, stay foolish. Edge Computing Kubernetes Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Security Virtual Machines DevOps Do what you love and the money will follow.
+API Edge Computing Blockchain OAuth Big Data

@@ -10,3 +10,4 @@ Deployment Data Pipeline Difficult roads often lead to beautiful destinations. S
 Success usually comes to those who are too busy to be looking for it. OAuth Load Balancing Database Indexing Act as if what you do makes a difference. It does. Quantum Computing Containerization Event-driven Architecture JWT Frontend Cloud Functions
 Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Message Queue Backend Frontend Stay hungry, stay foolish. Content Delivery Network Logging Kubernetes
 React Frontend Kubernetes Latency Optimization Data Pipeline Algorithm Security Content Delivery Network Testing Cache Invalidation
+Docker Pull Request Code Review Quantum Computing Happiness is not something ready made. It comes from your own actions. Python Artificial Intelligence Data Science Difficult roads often lead to beautiful destinations.

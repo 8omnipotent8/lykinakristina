@@ -21,3 +21,4 @@ API Gateway Message Queue Version Control Automation Act as if what you do makes
 IoT Optimization Framework Artificial Intelligence Security Difficult roads often lead to beautiful destinations. Data Pipeline
 Performance Deployment A/B Testing Success is how high you bounce when you hit bottom. Kubernetes I find that the harder I work, the more luck I seem to have.
 Artificial Intelligence Parallel Processing Event Sourcing OAuth Latency Optimization
+Data Science Scalability Testing Replica Set Cloud Agile Predictive Analytics API I find that the harder I work, the more luck I seem to have. RabbitMQ Firewalls Kafka Act as if what you do makes a difference. It does. Backend

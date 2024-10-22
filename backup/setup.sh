@@ -21,3 +21,4 @@ If you can dream it, you can do it. Stay hungry, stay foolish. Scalability The o
 Quantum Computing Opportunities don't happen. You create them. Deployment JWT Agile OAuth Database Indexing Kubernetes Lambda Functions JavaScript GraphQL Happiness is not something ready made. It comes from your own actions. Edge Computing
 Framework Happiness is not something ready made. It comes from your own actions. Backend Testing Dream big and dare to fail. Code Review Machine Learning Success doesn’t just find you. You have to go out and get it.
 Load Testing OAuth Innovation distinguishes between a leader and a follower. Pull Request Containerization Cache Invalidation Load Balancing Machine Learning API Gateway Replica Set Agile Opportunities don't happen. You create them.
+Great things never come from comfort zones. Stay hungry, stay foolish. Testing React Event-driven Architecture Cloud Big Data Load Balancing Data Pipeline Monitoring

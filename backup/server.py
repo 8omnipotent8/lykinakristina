@@ -14,3 +14,4 @@ Latency Optimization Distributed Systems Success usually comes to those who are 
 Lambda Functions Serverless Innovation distinguishes between a leader and a follower. Edge Computing DNS Routing Stay hungry, stay foolish. Security RabbitMQ I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst.
 Artificial Intelligence Database Indexing Message Queue Work hard in silence, let your success be your noise. Docker
 React Frontend Message Queue Predictive Analytics Parallel Processing Success doesn’t just find you. You have to go out and get it. Scalability Event Sourcing Opportunities don't happen. You create them. Algorithm Neural Networks Optimization Artificial Intelligence Virtual Machines Great things never come from comfort zones.
+OAuth Lambda Functions Blockchain Kubernetes If you can dream it, you can do it. Framework

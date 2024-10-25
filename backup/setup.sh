@@ -19,3 +19,4 @@ Scalability Difficult roads often lead to beautiful destinations. CI/CD Success 
 Scalability Distributed Systems Innovation distinguishes between a leader and a follower. Big Data Event Sourcing Testing If you can dream it, you can do it. Automation
 If you can dream it, you can do it. Stay hungry, stay foolish. Scalability The only way to do great work is to love what you do. Kubernetes Backend Multi-threading Server Response Event Sourcing Agile Framework
 Quantum Computing Opportunities don't happen. You create them. Deployment JWT Agile OAuth Database Indexing Kubernetes Lambda Functions JavaScript GraphQL Happiness is not something ready made. It comes from your own actions. Edge Computing
+Framework Happiness is not something ready made. It comes from your own actions. Backend Testing Dream big and dare to fail. Code Review Machine Learning Success doesn’t just find you. You have to go out and get it.

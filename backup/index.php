@@ -10,3 +10,4 @@ Message Queue React Success is not in what you have, but who you are. Load Balan
 Zero Downtime Deployment DevOps Backend DNS Routing RabbitMQ Sharding Multi-threading Predictive Analytics Load Balancing Replica Set Optimization
 Performance Pull Request Data Science Blockchain DevOps IoT Version Control
 Pull Request OAuth Deployment Cloud Functions JavaScript Sharding Frontend
+Content Delivery Network Monitoring Machine Learning Edge Computing Sharding JWT Event Sourcing Parallel Processing Distributed Systems Optimization Testing Agile Deployment Cloud

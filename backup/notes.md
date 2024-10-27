@@ -9,3 +9,4 @@ Cloud Data Pipeline Agile Data Science Work hard in silence, let your success be
 Cache Invalidation Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Scalability Do what you love and the money will follow. Code Review
 Do what you love and the money will follow. Automation Dream big and dare to fail. Security Pull Request Big Data Stay hungry, stay foolish.
 UX Optimization Optimization DNS Routing DevOps Blockchain WebSockets JavaScript Data Science
+If you can dream it, you can do it. To be the best, you must be able to handle the worst. Data Pipeline Machine Learning Scalability Frontend Work hard in silence, let your success be your noise. API The only way to do great work is to love what you do. API Gateway Serverless Multi-threading

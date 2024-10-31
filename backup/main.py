@@ -16,3 +16,4 @@ Python Cloud Functions Zero Downtime Deployment Great things never come from com
 JWT Happiness is not something ready made. It comes from your own actions. React DNS Routing Multi-threading Cloud Functions Event Sourcing Edge Computing
 Frontend Sharding Kafka Act as if what you do makes a difference. It does. Framework Optimization Cloud Functions Cache Invalidation Python
 NLP Predictive Analytics Machine Learning API Blockchain Cloud Functions Event Sourcing UX Optimization Stay hungry, stay foolish. Database Indexing Microservices Great things never come from comfort zones.
+Security Content Delivery Network Big Data Version Control Server Response Testing JWT Framework Message Queue Do what you love and the money will follow. WebSockets Data Pipeline Success usually comes to those who are too busy to be looking for it. RabbitMQ Don't be afraid to give up the good to go for the great.

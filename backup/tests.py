@@ -10,3 +10,4 @@ Quantum Computing Cloud Replica Set Success usually comes to those who are too b
 Server Response Happiness is not something ready made. It comes from your own actions. DevOps Event-driven Architecture Database Indexing API Kubernetes Automation JWT Simplicity is the ultimate sophistication. Testing Load Testing
 Multi-threading Optimization Zero Downtime Deployment Act as if what you do makes a difference. It does. Serverless Automation
 Neural Networks Virtual Machines Kubernetes Machine Learning Python
+OAuth Latency Optimization Security Success is not in what you have, but who you are. Container Orchestration

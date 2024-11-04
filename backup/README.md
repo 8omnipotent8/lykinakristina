@@ -11,3 +11,4 @@ Database Load Balancing I find that the harder I work, the more luck I seem to h
 The only way to do great work is to love what you do. UX Optimization Success usually comes to those who are too busy to be looking for it. OAuth Great things never come from comfort zones.
 Automation Neural Networks JavaScript Docker Server Response Blockchain Optimization Machine Learning API A/B Testing Parallel Processing
 Data Pipeline Automation Data Science Innovation distinguishes between a leader and a follower. If you can dream it, you can do it.
+Event Sourcing Database If you can dream it, you can do it. RabbitMQ Edge Computing Event-driven Architecture Parallel Processing

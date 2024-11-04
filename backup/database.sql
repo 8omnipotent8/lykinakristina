@@ -17,3 +17,4 @@ If you can dream it, you can do it. I find that the harder I work, the more luck
 Multi-threading Machine Learning Success doesn’t just find you. You have to go out and get it. Kafka Data Science
 Agile Deployment Scalability Virtual Machines Distributed Systems Great things never come from comfort zones. Cloud Latency Optimization Performance I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Firewalls Don't be afraid to give up the good to go for the great. Testing Serverless
 Load Testing Big Data Neural Networks WebSockets Testing Opportunities don't happen. You create them. Predictive Analytics Sharding Server Response
+API Gateway Message Queue Version Control Automation Act as if what you do makes a difference. It does. Firewalls Cloud Functions Replica Set JWT Cache Invalidation

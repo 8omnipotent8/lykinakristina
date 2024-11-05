@@ -7,3 +7,4 @@ Lambda Functions Success usually comes to those who are too busy to be looking f
 Content Delivery Network Performance DevOps Logging A/B Testing Cloud Functions Database Neural Networks Database Indexing Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Great things never come from comfort zones. Agile
 Load Balancing JavaScript Multi-threading API Gateway Logging A/B Testing Data Pipeline Opportunities don't happen. You create them. Sharding Message Queue Work hard in silence, let your success be your noise. DNS Routing Do what you love and the money will follow.
 Message Queue React Success is not in what you have, but who you are. Load Balancing Code Review Quantum Computing
+Zero Downtime Deployment DevOps Backend DNS Routing RabbitMQ Sharding Multi-threading Predictive Analytics Load Balancing Replica Set Optimization

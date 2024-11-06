@@ -9,3 +9,4 @@ Deployment Pull Request Testing DevOps CI/CD Cloud Docker
 JWT Optimization Data Pipeline Success is not in what you have, but who you are. Server Response
 Server Response Code Review Security The only way to do great work is to love what you do. Zero Downtime Deployment Load Testing Deployment Microservices Python Logging
 Testing OAuth Event Sourcing Artificial Intelligence Firewalls UX Optimization Innovation distinguishes between a leader and a follower. JWT Code Review Predictive Analytics
+Cloud Functions Version Control Docker Code Review Dream big and dare to fail.

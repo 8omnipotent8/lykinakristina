@@ -16,3 +16,4 @@ Serverless Lambda Functions Version Control To be the best, you must be able to 
 Success is how high you bounce when you hit bottom. Artificial Intelligence Opportunities don't happen. You create them. Performance React Multi-threading Zero Downtime Deployment
 Distributed Systems The only way to do great work is to love what you do. Replica Set Kafka Code Review API Firewalls Do what you love and the money will follow. WebSockets Innovation distinguishes between a leader and a follower. Python
 Scalability Difficult roads often lead to beautiful destinations. CI/CD Success is not in what you have, but who you are. NLP Frontend
+Scalability Distributed Systems Innovation distinguishes between a leader and a follower. Big Data Event Sourcing Testing If you can dream it, you can do it. Automation

@@ -7,3 +7,4 @@ Multi-threading Replica Set Version Control Optimization Database UX Optimizatio
 Event Sourcing A/B Testing Virtual Machines Load Balancing Lambda Functions The only way to do great work is to love what you do.
 Cloud Data Pipeline Agile Data Science Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Server Response
 Cache Invalidation Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Scalability Do what you love and the money will follow. Code Review
+Do what you love and the money will follow. Automation Dream big and dare to fail. Security Pull Request Big Data Stay hungry, stay foolish.

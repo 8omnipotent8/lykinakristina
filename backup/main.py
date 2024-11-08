@@ -15,3 +15,4 @@ Success is not in what you have, but who you are. JWT Sharding API Gateway Dream
 Python Cloud Functions Zero Downtime Deployment Great things never come from comfort zones. Event-driven Architecture Microservices Data Pipeline Do what you love and the money will follow. Success is not in what you have, but who you are. OAuth Logging Neural Networks
 JWT Happiness is not something ready made. It comes from your own actions. React DNS Routing Multi-threading Cloud Functions Event Sourcing Edge Computing
 Frontend Sharding Kafka Act as if what you do makes a difference. It does. Framework Optimization Cloud Functions Cache Invalidation Python
+NLP Predictive Analytics Machine Learning API Blockchain Cloud Functions Event Sourcing UX Optimization Stay hungry, stay foolish. Database Indexing Microservices Great things never come from comfort zones.

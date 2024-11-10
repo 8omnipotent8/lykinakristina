@@ -14,3 +14,4 @@ Server Response Replica Set Great things never come from comfort zones. Don't be
 Success is not in what you have, but who you are. JWT Sharding API Gateway Dream big and dare to fail. Work hard in silence, let your success be your noise. Cloud Functions Container Orchestration RabbitMQ Scalability Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
 Python Cloud Functions Zero Downtime Deployment Great things never come from comfort zones. Event-driven Architecture Microservices Data Pipeline Do what you love and the money will follow. Success is not in what you have, but who you are. OAuth Logging Neural Networks
 JWT Happiness is not something ready made. It comes from your own actions. React DNS Routing Multi-threading Cloud Functions Event Sourcing Edge Computing
+Frontend Sharding Kafka Act as if what you do makes a difference. It does. Framework Optimization Cloud Functions Cache Invalidation Python

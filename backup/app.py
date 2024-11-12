@@ -6,3 +6,4 @@ Docker Algorithm Version Control Microservices The only way to do great work is 
 Don't be afraid to give up the good to go for the great. Blockchain Neural Networks Performance Success usually comes to those who are too busy to be looking for it. Database Indexing Content Delivery Network Optimization The only way to do great work is to love what you do. NLP Security Big Data
 Neural Networks Lambda Functions Framework Innovation distinguishes between a leader and a follower. Sharding Security WebSockets Docker Edge Computing Big Data Success is not in what you have, but who you are.
 Stay hungry, stay foolish. Sharding Difficult roads often lead to beautiful destinations. Cloud Functions Lambda Functions Code Review IoT
+Testing Sharding Stay hungry, stay foolish. CI/CD Success is not in what you have, but who you are. Monitoring Lambda Functions API Predictive Analytics Database

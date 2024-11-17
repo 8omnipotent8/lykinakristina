@@ -7,3 +7,4 @@ Success is how high you bounce when you hit bottom. Algorithm Lambda Functions S
 API Gateway Logging Predictive Analytics Load Testing Cache Invalidation NLP
 Scalability Automation Cloud Functions Parallel Processing If you can dream it, you can do it. Microservices Predictive Analytics Logging Neural Networks
 Quantum Computing Cloud Replica Set Success usually comes to those who are too busy to be looking for it. Big Data Cache Invalidation CI/CD Act as if what you do makes a difference. It does. IoT Event Sourcing
+Server Response Happiness is not something ready made. It comes from your own actions. DevOps Event-driven Architecture Database Indexing API Kubernetes Automation JWT Simplicity is the ultimate sophistication. Testing Load Testing

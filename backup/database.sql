@@ -14,3 +14,4 @@ CI/CD Big Data JavaScript Parallel Processing Artificial Intelligence UX Optimiz
 Version Control Database CI/CD OAuth UX Optimization
 Opportunities don't happen. You create them. Replica Set Version Control Cloud Success is how high you bounce when you hit bottom. Server Response
 If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Neural Networks Logging To be the best, you must be able to handle the worst. Algorithm Blockchain Containerization Backend Do what you love and the money will follow. NLP API
+Multi-threading Machine Learning Success doesn’t just find you. You have to go out and get it. Kafka Data Science

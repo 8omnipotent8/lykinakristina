@@ -15,3 +15,4 @@ Version Control Database CI/CD OAuth UX Optimization
 Opportunities don't happen. You create them. Replica Set Version Control Cloud Success is how high you bounce when you hit bottom. Server Response
 If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Neural Networks Logging To be the best, you must be able to handle the worst. Algorithm Blockchain Containerization Backend Do what you love and the money will follow. NLP API
 Multi-threading Machine Learning Success doesn’t just find you. You have to go out and get it. Kafka Data Science
+Agile Deployment Scalability Virtual Machines Distributed Systems Great things never come from comfort zones. Cloud Latency Optimization Performance I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Firewalls Don't be afraid to give up the good to go for the great. Testing Serverless

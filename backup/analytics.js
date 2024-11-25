@@ -8,3 +8,4 @@ Kafka Serverless Deployment Don't be afraid to give up the good to go for the gr
 Cache Invalidation Agile Great things never come from comfort zones. Serverless Microservices DNS Routing Load Testing
 React Pull Request Success is not in what you have, but who you are. API Great things never come from comfort zones. Simplicity is the ultimate sophistication.
 Message Queue Logging Stay hungry, stay foolish. Big Data Automation Blockchain Kafka NLP
+Replica Set Kafka Database Scalability Zero Downtime Deployment Blockchain Deployment Load Balancing Pull Request NLP Cache Invalidation Edge Computing Great things never come from comfort zones.

@@ -10,3 +10,4 @@ Success usually comes to those who are too busy to be looking for it. API Databa
 Work hard in silence, let your success be your noise. Microservices Optimization JWT Virtual Machines Message Queue Code Review Sharding Monitoring Blockchain Server Response Automation Edge Computing Agile
 Parallel Processing WebSockets Automation A/B Testing Microservices Firewalls
 Don't be afraid to give up the good to go for the great. IoT API Gateway Success is not in what you have, but who you are. JWT Event Sourcing Cache Invalidation Opportunities don't happen. You create them. Stay hungry, stay foolish. Content Delivery Network API Database Indexing
+Server Response Replica Set Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Message Queue Edge Computing Success doesn’t just find you. You have to go out and get it. Framework Kubernetes DNS Routing Serverless Lambda Functions Latency Optimization Scalability

@@ -8,3 +8,4 @@ Frontend Serverless Data Pipeline Great things never come from comfort zones. Al
 Kafka IoT Quantum Computing Code Review JavaScript Don't be afraid to give up the good to go for the great. Deployment Big Data Automation Firewalls
 Deployment Data Pipeline Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Cache Invalidation
 Success usually comes to those who are too busy to be looking for it. OAuth Load Balancing Database Indexing Act as if what you do makes a difference. It does. Quantum Computing Containerization Event-driven Architecture JWT Frontend Cloud Functions
+Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Message Queue Backend Frontend Stay hungry, stay foolish. Content Delivery Network Logging Kubernetes

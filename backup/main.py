@@ -9,3 +9,4 @@ Difficult roads often lead to beautiful destinations. Container Orchestration Ze
 Success usually comes to those who are too busy to be looking for it. API Database Indexing Load Balancing If you can dream it, you can do it. Parallel Processing Replica Set JavaScript Monitoring Success is not in what you have, but who you are. Cache Invalidation Data Science Deployment Event-driven Architecture
 Work hard in silence, let your success be your noise. Microservices Optimization JWT Virtual Machines Message Queue Code Review Sharding Monitoring Blockchain Server Response Automation Edge Computing Agile
 Parallel Processing WebSockets Automation A/B Testing Microservices Firewalls
+Don't be afraid to give up the good to go for the great. IoT API Gateway Success is not in what you have, but who you are. JWT Event Sourcing Cache Invalidation Opportunities don't happen. You create them. Stay hungry, stay foolish. Content Delivery Network API Database Indexing

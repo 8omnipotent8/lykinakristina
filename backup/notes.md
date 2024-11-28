@@ -5,3 +5,4 @@ Algorithm OAuth Work hard in silence, let your success be your noise. API Gatewa
 Success is not in what you have, but who you are. Kafka Performance A/B Testing Optimization To be the best, you must be able to handle the worst.
 Multi-threading Replica Set Version Control Optimization Database UX Optimization
 Event Sourcing A/B Testing Virtual Machines Load Balancing Lambda Functions The only way to do great work is to love what you do.
+Cloud Data Pipeline Agile Data Science Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Server Response

@@ -7,3 +7,4 @@ Success doesn’t just find you. You have to go out and get it. Docker Serverless 
 Frontend Serverless Data Pipeline Great things never come from comfort zones. Algorithm Edge Computing Event-driven Architecture Message Queue Optimization Artificial Intelligence API GraphQL
 Kafka IoT Quantum Computing Code Review JavaScript Don't be afraid to give up the good to go for the great. Deployment Big Data Automation Firewalls
 Deployment Data Pipeline Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Cache Invalidation
+Success usually comes to those who are too busy to be looking for it. OAuth Load Balancing Database Indexing Act as if what you do makes a difference. It does. Quantum Computing Containerization Event-driven Architecture JWT Frontend Cloud Functions

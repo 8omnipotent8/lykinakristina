@@ -1,3 +1,4 @@
 Success usually comes to those who are too busy to be looking for it. Cache Invalidation Machine Learning CI/CD Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Performance Lambda Functions Quantum Computing Do what you love and the money will follow. UX Optimization
 Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. NLP Version Control Zero Downtime Deployment Success is not in what you have, but who you are.
 Dream big and dare to fail. API Gateway Success is how high you bounce when you hit bottom. Containerization The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Data Pipeline Automation Code Review Deployment
+DNS Routing Sharding React Agile JavaScript Microservices

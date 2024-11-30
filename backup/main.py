@@ -8,3 +8,4 @@ I find that the harder I work, the more luck I seem to have. Kafka Event-driven 
 Difficult roads often lead to beautiful destinations. Container Orchestration Zero Downtime Deployment Event-driven Architecture A/B Testing Distributed Systems Data Pipeline IoT Sharding Success doesn’t just find you. You have to go out and get it.
 Success usually comes to those who are too busy to be looking for it. API Database Indexing Load Balancing If you can dream it, you can do it. Parallel Processing Replica Set JavaScript Monitoring Success is not in what you have, but who you are. Cache Invalidation Data Science Deployment Event-driven Architecture
 Work hard in silence, let your success be your noise. Microservices Optimization JWT Virtual Machines Message Queue Code Review Sharding Monitoring Blockchain Server Response Automation Edge Computing Agile
+Parallel Processing WebSockets Automation A/B Testing Microservices Firewalls

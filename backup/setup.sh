@@ -11,3 +11,4 @@ Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations.
 JWT Kubernetes Database Indexing API RabbitMQ Great things never come from comfort zones.
 API Gateway Predictive Analytics Algorithm Great things never come from comfort zones. A/B Testing Work hard in silence, let your success be your noise. Kubernetes Load Balancing Sharding To be the best, you must be able to handle the worst.
 If you can dream it, you can do it. Great things never come from comfort zones. Parallel Processing JWT Big Data Frontend Predictive Analytics JavaScript
+Monitoring Difficult roads often lead to beautiful destinations. RabbitMQ Latency Optimization The only way to do great work is to love what you do. Scalability React Do what you love and the money will follow.

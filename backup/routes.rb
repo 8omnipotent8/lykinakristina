@@ -6,3 +6,4 @@ Innovation distinguishes between a leader and a follower. Cloud API Don't be afr
 Performance Firewalls Security Success usually comes to those who are too busy to be looking for it. DNS Routing Kubernetes Machine Learning Testing Replica Set Data Science
 Distributed Systems Algorithm Server Response Virtual Machines Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. NLP
 Data Pipeline DNS Routing WebSockets Security Agile Cloud Stay hungry, stay foolish. Pull Request If you can dream it, you can do it. Blockchain Performance Big Data Predictive Analytics
+Event-driven Architecture Testing DNS Routing Cloud GraphQL A/B Testing Logging Message Queue

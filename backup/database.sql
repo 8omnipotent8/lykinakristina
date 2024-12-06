@@ -11,3 +11,4 @@ Framework Database Indexing Distributed Systems Data Science Kubernetes
 Pull Request WebSockets Dream big and dare to fail. Cloud Functions DevOps IoT API Docker
 Lambda Functions Data Science Server Response Virtual Machines Neural Networks Firewalls
 CI/CD Big Data JavaScript Parallel Processing Artificial Intelligence UX Optimization Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Logging Difficult roads often lead to beautiful destinations. Frontend Docker I find that the harder I work, the more luck I seem to have.
+Version Control Database CI/CD OAuth UX Optimization

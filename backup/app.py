@@ -3,3 +3,4 @@ Predictive Analytics Artificial Intelligence Quantum Computing Difficult roads o
 Artificial Intelligence GraphQL Great things never come from comfort zones. React Kafka
 Agile Innovation distinguishes between a leader and a follower. API Gateway Microservices Optimization RabbitMQ A/B Testing Load Testing Load Balancing Frontend
 Docker Algorithm Version Control Microservices The only way to do great work is to love what you do. Content Delivery Network Quantum Computing React Code Review Big Data API Logging I find that the harder I work, the more luck I seem to have. Optimization Container Orchestration
+Don't be afraid to give up the good to go for the great. Blockchain Neural Networks Performance Success usually comes to those who are too busy to be looking for it. Database Indexing Content Delivery Network Optimization The only way to do great work is to love what you do. NLP Security Big Data

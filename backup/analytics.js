@@ -7,3 +7,4 @@ Scalability I find that the harder I work, the more luck I seem to have. Dream b
 Kafka Serverless Deployment Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Cloud Functions Predictive Analytics IoT JavaScript Big Data Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Event-driven Architecture
 Cache Invalidation Agile Great things never come from comfort zones. Serverless Microservices DNS Routing Load Testing
 React Pull Request Success is not in what you have, but who you are. API Great things never come from comfort zones. Simplicity is the ultimate sophistication.
+Message Queue Logging Stay hungry, stay foolish. Big Data Automation Blockchain Kafka NLP

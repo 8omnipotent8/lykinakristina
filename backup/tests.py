@@ -5,3 +5,4 @@ Innovation distinguishes between a leader and a follower. Cloud Functions I find
 I find that the harder I work, the more luck I seem to have. Big Data Kubernetes React JavaScript Quantum Computing DNS Routing Multi-threading Neural Networks
 Success is how high you bounce when you hit bottom. Algorithm Lambda Functions Security RabbitMQ Event Sourcing Don't be afraid to give up the good to go for the great. Monitoring Serverless Frontend Database Docker Cache Invalidation Success is not in what you have, but who you are. Latency Optimization
 API Gateway Logging Predictive Analytics Load Testing Cache Invalidation NLP
+Scalability Automation Cloud Functions Parallel Processing If you can dream it, you can do it. Microservices Predictive Analytics Logging Neural Networks

@@ -6,3 +6,4 @@ JWT JavaScript Containerization Server Response Load Testing Cache Invalidation 
 Success doesn’t just find you. You have to go out and get it. Docker Serverless Microservices React RabbitMQ Do what you love and the money will follow. Deployment API Difficult roads often lead to beautiful destinations. Machine Learning GraphQL Testing
 Frontend Serverless Data Pipeline Great things never come from comfort zones. Algorithm Edge Computing Event-driven Architecture Message Queue Optimization Artificial Intelligence API GraphQL
 Kafka IoT Quantum Computing Code Review JavaScript Don't be afraid to give up the good to go for the great. Deployment Big Data Automation Firewalls
+Deployment Data Pipeline Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Cache Invalidation

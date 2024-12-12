@@ -9,3 +9,4 @@ Virtual Machines UX Optimization Automation Machine Learning Version Control Mes
 Performance Serverless Stay hungry, stay foolish. Scalability Difficult roads often lead to beautiful destinations. Great things never come from comfort zones.
 Framework Database Indexing Distributed Systems Data Science Kubernetes
 Pull Request WebSockets Dream big and dare to fail. Cloud Functions DevOps IoT API Docker
+Lambda Functions Data Science Server Response Virtual Machines Neural Networks Firewalls

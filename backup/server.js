@@ -3,3 +3,4 @@ Virtual Machines Kafka OAuth Don't be afraid to give up the good to go for the g
 Replica Set Event Sourcing OAuth Happiness is not something ready made. It comes from your own actions. Load Balancing Don't be afraid to give up the good to go for the great. Optimization Microservices WebSockets Message Queue Cloud Virtual Machines Event-driven Architecture Frontend
 Kubernetes Predictive Analytics GraphQL Latency Optimization Stay hungry, stay foolish. CI/CD The only way to do great work is to love what you do.
 Dream big and dare to fail. WebSockets Security Load Testing Pull Request Deployment DevOps
+Predictive Analytics Quantum Computing WebSockets Optimization Act as if what you do makes a difference. It does. Artificial Intelligence Docker UX Optimization JWT Microservices Serverless Logging The only way to do great work is to love what you do. Simplicity is the ultimate sophistication.

@@ -9,3 +9,4 @@ IoT Success is not in what you have, but who you are. Cloud Functions Dream big 
 I find that the harder I work, the more luck I seem to have. JavaScript Automation Database Indexing Code Review Agile Frontend Cloud Event Sourcing Event-driven Architecture
 Database Load Balancing I find that the harder I work, the more luck I seem to have. Database Indexing Security Logging To be the best, you must be able to handle the worst. GraphQL Lambda Functions
 The only way to do great work is to love what you do. UX Optimization Success usually comes to those who are too busy to be looking for it. OAuth Great things never come from comfort zones.
+Automation Neural Networks JavaScript Docker Server Response Blockchain Optimization Machine Learning API A/B Testing Parallel Processing

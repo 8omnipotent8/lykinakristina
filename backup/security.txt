@@ -11,3 +11,4 @@ Deployment GraphQL Success doesn’t just find you. You have to go out and get it.
 Work hard in silence, let your success be your noise. Automation Message Queue Cloud Functions Neural Networks Event Sourcing Cache Invalidation JavaScript Latency Optimization Security Microservices Lambda Functions Do what you love and the money will follow.
 RabbitMQ Parallel Processing Innovation distinguishes between a leader and a follower. Algorithm Framework Backend Docker Microservices
 Data Science Logging Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Edge Computing Container Orchestration API Gateway Stay hungry, stay foolish. Data Pipeline Content Delivery Network API NLP WebSockets Load Balancing
+Version Control Agile Success is not in what you have, but who you are. Message Queue Automation Kafka Success usually comes to those who are too busy to be looking for it. JavaScript Container Orchestration

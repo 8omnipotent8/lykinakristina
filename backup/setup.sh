@@ -9,3 +9,4 @@ WebSockets Frontend Big Data Innovation distinguishes between a leader and a fol
 Latency Optimization Event Sourcing Performance To be the best, you must be able to handle the worst. Lambda Functions IoT
 Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. API Gateway If you can dream it, you can do it. Docker Lambda Functions Monitoring Optimization Frontend Microservices DNS Routing Container Orchestration Happiness is not something ready made. It comes from your own actions. Latency Optimization Cache Invalidation
 JWT Kubernetes Database Indexing API RabbitMQ Great things never come from comfort zones.
+API Gateway Predictive Analytics Algorithm Great things never come from comfort zones. A/B Testing Work hard in silence, let your success be your noise. Kubernetes Load Balancing Sharding To be the best, you must be able to handle the worst.

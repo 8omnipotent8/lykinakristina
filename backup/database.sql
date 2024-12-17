@@ -8,3 +8,4 @@ Version Control Framework Database Opportunities don't happen. You create them. 
 Virtual Machines UX Optimization Automation Machine Learning Version Control Message Queue Container Orchestration Load Testing Big Data To be the best, you must be able to handle the worst. Content Delivery Network Microservices Predictive Analytics
 Performance Serverless Stay hungry, stay foolish. Scalability Difficult roads often lead to beautiful destinations. Great things never come from comfort zones.
 Framework Database Indexing Distributed Systems Data Science Kubernetes
+Pull Request WebSockets Dream big and dare to fail. Cloud Functions DevOps IoT API Docker

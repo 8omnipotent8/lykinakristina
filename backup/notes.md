@@ -2,3 +2,4 @@ Opportunities don't happen. You create them. Content Delivery Network To be the 
 DNS Routing Logging Do what you love and the money will follow. API Innovation distinguishes between a leader and a follower. Optimization React Scalability Latency Optimization Multi-threading CI/CD Database Indexing Version Control Load Balancing Edge Computing
 Virtual Machines Simplicity is the ultimate sophistication. JWT Don't be afraid to give up the good to go for the great. Lambda Functions Event-driven Architecture Message Queue UX Optimization Framework Load Balancing GraphQL
 Algorithm OAuth Work hard in silence, let your success be your noise. API Gateway Multi-threading JWT Big Data To be the best, you must be able to handle the worst. Dream big and dare to fail. Act as if what you do makes a difference. It does. Edge Computing
+Success is not in what you have, but who you are. Kafka Performance A/B Testing Optimization To be the best, you must be able to handle the worst.

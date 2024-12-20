@@ -1,2 +1,3 @@
 Kubernetes WebSockets Code Review Parallel Processing Message Queue Event-driven Architecture Monitoring Blockchain Cloud Machine Learning I find that the harder I work, the more luck I seem to have. Containerization Docker NLP
 I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Lambda Functions Great things never come from comfort zones. Algorithm CI/CD Machine Learning Sharding Opportunities don't happen. You create them. API Framework A/B Testing Containerization
+Success doesn’t just find you. You have to go out and get it. Data Science Cloud Functions Cloud Multi-threading

@@ -2,3 +2,4 @@ Server Response Replica Set Pull Request A/B Testing Quantum Computing Do what y
 Pull Request Message Queue The only way to do great work is to love what you do. Server Response Automation If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Kubernetes Big Data Machine Learning Firewalls To be the best, you must be able to handle the worst. Load Testing Content Delivery Network Algorithm
 To be the best, you must be able to handle the worst. Monitoring Stay hungry, stay foolish. OAuth Serverless Python
 Cloud Success usually comes to those who are too busy to be looking for it. Kafka Monitoring Cloud Functions Cache Invalidation Data Science
+UX Optimization Testing Optimization Container Orchestration Frontend Simplicity is the ultimate sophistication. IoT JavaScript Multi-threading Big Data

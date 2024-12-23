@@ -6,3 +6,4 @@ CI/CD Neural Networks Act as if what you do makes a difference. It does. Serverl
 Database Success is how high you bounce when you hit bottom. Kubernetes Frontend Great things never come from comfort zones. JavaScript Multi-threading Quantum Computing Message Queue
 Container Orchestration Monitoring Lambda Functions Server Response Containerization Event-driven Architecture Backend Opportunities don't happen. You create them. Neural Networks Success is how high you bounce when you hit bottom. Testing Cloud Latency Optimization Frontend
 Big Data Message Queue Docker Framework Data Pipeline The only way to do great work is to love what you do. IoT Do what you love and the money will follow. Multi-threading Parallel Processing
+Predictive Analytics Replica Set Latency Optimization Load Balancing Optimization Cache Invalidation Edge Computing Python Act as if what you do makes a difference. It does. Code Review Serverless

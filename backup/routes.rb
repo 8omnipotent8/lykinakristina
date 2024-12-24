@@ -4,3 +4,4 @@ NLP Server Response Sharding Content Delivery Network Container Orchestration Se
 Automation Success doesn’t just find you. You have to go out and get it. API Gateway Event Sourcing Great things never come from comfort zones. DNS Routing WebSockets Kafka Happiness is not something ready made. It comes from your own actions. API Security
 Innovation distinguishes between a leader and a follower. Cloud API Don't be afraid to give up the good to go for the great. Message Queue Success is not in what you have, but who you are. Algorithm Multi-threading
 Performance Firewalls Security Success usually comes to those who are too busy to be looking for it. DNS Routing Kubernetes Machine Learning Testing Replica Set Data Science
+Distributed Systems Algorithm Server Response Virtual Machines Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. NLP

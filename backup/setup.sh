@@ -6,3 +6,4 @@ Success is how high you bounce when you hit bottom. Dream big and dare to fail. 
 Logging Great things never come from comfort zones. GraphQL Pull Request The only way to do great work is to love what you do. Serverless
 Edge Computing Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. API Gateway Data Science Virtual Machines
 WebSockets Frontend Big Data Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication.
+Latency Optimization Event Sourcing Performance To be the best, you must be able to handle the worst. Lambda Functions IoT

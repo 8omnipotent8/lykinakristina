@@ -9,3 +9,4 @@ Great things never come from comfort zones. Performance Optimization IoT Scalabi
 Success is not in what you have, but who you are. Data Pipeline API Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Cache Invalidation API Gateway Edge Computing
 Deployment GraphQL Success doesn’t just find you. You have to go out and get it. Code Review Predictive Analytics
 Work hard in silence, let your success be your noise. Automation Message Queue Cloud Functions Neural Networks Event Sourcing Cache Invalidation JavaScript Latency Optimization Security Microservices Lambda Functions Do what you love and the money will follow.
+RabbitMQ Parallel Processing Innovation distinguishes between a leader and a follower. Algorithm Framework Backend Docker Microservices

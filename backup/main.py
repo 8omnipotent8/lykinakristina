@@ -4,3 +4,4 @@ Artificial Intelligence Performance Testing Kubernetes Blockchain
 Big Data Docker Event Sourcing Microservices Success doesn’t just find you. You have to go out and get it.
 Code Review Data Science Database Event Sourcing Backend WebSockets Distributed Systems Message Queue Event-driven Architecture Microservices Great things never come from comfort zones. Neural Networks
 Parallel Processing Load Testing JWT Latency Optimization React Monitoring Do what you love and the money will follow.
+I find that the harder I work, the more luck I seem to have. Kafka Event-driven Architecture Backend Big Data Parallel Processing UX Optimization JavaScript GraphQL OAuth API Gateway Simplicity is the ultimate sophistication. Do what you love and the money will follow.

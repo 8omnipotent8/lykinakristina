@@ -3,3 +3,4 @@ Containerization Success is not in what you have, but who you are. Sharding Dock
 Artificial Intelligence Performance Testing Kubernetes Blockchain
 Big Data Docker Event Sourcing Microservices Success doesn’t just find you. You have to go out and get it.
 Code Review Data Science Database Event Sourcing Backend WebSockets Distributed Systems Message Queue Event-driven Architecture Microservices Great things never come from comfort zones. Neural Networks
+Parallel Processing Load Testing JWT Latency Optimization React Monitoring Do what you love and the money will follow.

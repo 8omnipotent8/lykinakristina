@@ -4,3 +4,4 @@ Data Science WebSockets Agile GraphQL Cloud Kafka Zero Downtime Deployment Versi
 Server Response Content Delivery Network API Monitoring Innovation distinguishes between a leader and a follower. DevOps Backend Edge Computing Don't be afraid to give up the good to go for the great.
 Success is how high you bounce when you hit bottom. Dream big and dare to fail. OAuth Multi-threading DevOps Kubernetes Docker Version Control Container Orchestration Neural Networks Python Zero Downtime Deployment Load Testing
 Logging Great things never come from comfort zones. GraphQL Pull Request The only way to do great work is to love what you do. Serverless
+Edge Computing Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. API Gateway Data Science Virtual Machines

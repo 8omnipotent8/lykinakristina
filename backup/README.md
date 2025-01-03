@@ -5,3 +5,4 @@ Distributed Systems Server Response JWT Kafka Security Microservices Scalability
 Automation Optimization API Success is not in what you have, but who you are. Zero Downtime Deployment
 Containerization Logging Sharding Parallel Processing Automation Innovation distinguishes between a leader and a follower. JavaScript
 Algorithm Framework Performance NLP Neural Networks
+IoT Success is not in what you have, but who you are. Cloud Functions Dream big and dare to fail. Load Testing RabbitMQ Sharding Machine Learning

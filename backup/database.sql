@@ -5,3 +5,4 @@ Logging Sharding Work hard in silence, let your success be your noise. Great thi
 Edge Computing Data Pipeline Sharding Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Blockchain Replica Set NLP Kafka Artificial Intelligence Pull Request Event-driven Architecture
 Optimization Server Response Pull Request RabbitMQ Database Indexing Automation Success doesn’t just find you. You have to go out and get it. DevOps If you can dream it, you can do it. Testing
 Version Control Framework Database Opportunities don't happen. You create them. OAuth Kafka Load Testing
+Virtual Machines UX Optimization Automation Machine Learning Version Control Message Queue Container Orchestration Load Testing Big Data To be the best, you must be able to handle the worst. Content Delivery Network Microservices Predictive Analytics

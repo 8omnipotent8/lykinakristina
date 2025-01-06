@@ -4,3 +4,4 @@ Neural Networks DNS Routing If you can dream it, you can do it. Content Delivery
 Logging Sharding Work hard in silence, let your success be your noise. Great things never come from comfort zones. Message Queue Cloud Functions Predictive Analytics Act as if what you do makes a difference. It does. IoT Serverless Virtual Machines
 Edge Computing Data Pipeline Sharding Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Blockchain Replica Set NLP Kafka Artificial Intelligence Pull Request Event-driven Architecture
 Optimization Server Response Pull Request RabbitMQ Database Indexing Automation Success doesn’t just find you. You have to go out and get it. DevOps If you can dream it, you can do it. Testing
+Version Control Framework Database Opportunities don't happen. You create them. OAuth Kafka Load Testing

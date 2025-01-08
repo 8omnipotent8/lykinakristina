@@ -2,3 +2,4 @@ Framework Lambda Functions If you can dream it, you can do it. To be the best, y
 Frontend Success is not in what you have, but who you are. Edge Computing JWT Data Pipeline React Act as if what you do makes a difference. It does. A/B Testing OAuth Security Opportunities don't happen. You create them. DevOps Multi-threading Pull Request GraphQL
 DNS Routing IoT Parallel Processing Replica Set Act as if what you do makes a difference. It does. Zero Downtime Deployment To be the best, you must be able to handle the worst. Optimization Database
 Frontend Monitoring Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Server Response Scalability
+JWT JavaScript Containerization Server Response Load Testing Cache Invalidation React CI/CD

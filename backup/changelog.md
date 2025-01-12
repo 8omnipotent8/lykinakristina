@@ -3,3 +3,4 @@ Dream big and dare to fail. Difficult roads often lead to beautiful destinations
 RabbitMQ Load Testing Scalability I find that the harder I work, the more luck I seem to have. Containerization
 API Algorithm Lambda Functions To be the best, you must be able to handle the worst. WebSockets Kafka Don't be afraid to give up the good to go for the great. Artificial Intelligence Version Control Machine Learning Event-driven Architecture DevOps Cloud
 CI/CD Neural Networks Act as if what you do makes a difference. It does. Serverless Data Pipeline Dream big and dare to fail. Optimization Don't be afraid to give up the good to go for the great. Version Control Work hard in silence, let your success be your noise.
+Database Success is how high you bounce when you hit bottom. Kubernetes Frontend Great things never come from comfort zones. JavaScript Multi-threading Quantum Computing Message Queue

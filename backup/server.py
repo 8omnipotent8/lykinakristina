@@ -1,3 +1,4 @@
 Lambda Functions Act as if what you do makes a difference. It does. GraphQL Docker Multi-threading Zero Downtime Deployment Database Indexing Security
 JWT Simplicity is the ultimate sophistication. Great things never come from comfort zones. Work hard in silence, let your success be your noise. Load Balancing Data Science Zero Downtime Deployment Framework Version Control Success is how high you bounce when you hit bottom. Content Delivery Network RabbitMQ
 JWT Load Balancing Database Indexing Simplicity is the ultimate sophistication. Edge Computing GraphQL CI/CD Logging Python Version Control
+Message Queue The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Multi-threading Pull Request I find that the harder I work, the more luck I seem to have. Event Sourcing Lambda Functions DevOps API NLP OAuth

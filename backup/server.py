@@ -1,1 +1,2 @@
 Lambda Functions Act as if what you do makes a difference. It does. GraphQL Docker Multi-threading Zero Downtime Deployment Database Indexing Security
+JWT Simplicity is the ultimate sophistication. Great things never come from comfort zones. Work hard in silence, let your success be your noise. Load Balancing Data Science Zero Downtime Deployment Framework Version Control Success is how high you bounce when you hit bottom. Content Delivery Network RabbitMQ

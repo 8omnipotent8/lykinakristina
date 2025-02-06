@@ -1,2 +1,3 @@
 Success is not in what you have, but who you are. Content Delivery Network Event-driven Architecture Quantum Computing Dream big and dare to fail. Artificial Intelligence Cloud Event Sourcing
 Happiness is not something ready made. It comes from your own actions. Monitoring Version Control Big Data JavaScript Blockchain
+Neural Networks DNS Routing If you can dream it, you can do it. Content Delivery Network Framework Optimization Parallel Processing Happiness is not something ready made. It comes from your own actions. Code Review JavaScript Quantum Computing Multi-threading Work hard in silence, let your success be your noise. Load Testing
